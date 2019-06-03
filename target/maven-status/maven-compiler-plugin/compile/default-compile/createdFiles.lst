@@ -1,7 +1,0 @@
-com\javasampleapproach\springrest\mysql\repo\CustomerRepository.class
-com\javasampleapproach\springrest\mysql\SpringRestMySqlApplication.class
-com\hla\ficheservice\controller\CustomerController.class
-com\javasampleapproach\springrest\mysql\model\Customer.class
-com\javasampleapproach\springrest\mysql\repo\EnfantRepository.class
-com\hla\ficheservice\controller\FicheController.class
-com\javasampleapproach\springrest\mysql\model\Enfant.class
