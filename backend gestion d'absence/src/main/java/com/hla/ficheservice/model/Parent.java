@@ -17,6 +17,7 @@ import org.hibernate.validator.constraints.Length;
 public class Parent {
 
 	@Id
+	@Column(name = "id_parent")
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private long id;
 
